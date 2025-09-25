@@ -7,7 +7,7 @@ InsightStream is a modern, feature-rich news application built with React. It pr
 To get a local copy up and running, follow these simple steps.
 
 ## Prerequisites
-Node.js and npm: Make sure you have Node.js and npm installed on your machine. You can download them from nodejs.org \
+Node.js and npm: Make sure you have Node.js and npm installed on your machine. You can download them from nodejs.org
 
 # Installation
 
