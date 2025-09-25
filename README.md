@@ -27,11 +27,6 @@ Bash\
 Bash\
 `npm install`
 
-Enter your API key in src/context/GeneralContext.jsx:
-
-JavaScript
-const apiKey = 'YOUR_NEWS_API_KEY'; 
-
 ## Start the development server:
 
 Bash\
